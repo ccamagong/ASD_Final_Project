@@ -1,0 +1,249 @@
+A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age,Sex,Ethnicity,Jaundice,Family_ASD,Class
+1,1,0,1,0,0,1,1,0,0,15,m,asian,no,no,NO
+0,1,1,1,0,1,1,0,1,0,15,m,middle eastern,no,no,NO
+1,1,1,0,1,1,1,1,1,1,15,f,middle eastern,no,yes,YES
+1,1,1,1,1,1,1,1,0,0,16,f,latino,no,no,YES
+1,1,1,1,1,1,1,1,1,1,15,f,aboriginal,no,no,YES
+0,1,1,1,0,1,1,0,1,0,14,m,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,14,f,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,12,m,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,NO
+0,1,1,1,0,1,1,0,1,0,12,f,middle eastern,no,no,NO
+0,1,1,1,0,1,1,0,1,0,16,f,middle eastern,no,no,NO
+1,0,1,0,0,0,0,1,0,1,16,m,asian,no,no,NO
+0,0,0,1,1,1,1,1,1,0,12,m,latino,yes,yes,NO
+0,0,0,1,1,1,1,1,1,0,15,m,black,yes,yes,NO
+1,0,0,0,1,0,0,1,0,1,15,m,aboriginal,yes,yes,NO
+0,0,0,0,0,0,0,0,1,1,15,m,hispanic,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,NO
+0,0,0,0,0,0,0,0,1,1,14,f,black,no,no,NO
+1,0,0,0,1,0,0,1,0,1,15,m,white,yes,yes,NO
+0,0,0,0,1,0,0,1,1,1,12,f,black,no,no,NO
+0,0,0,0,1,0,0,1,1,1,12,f,black,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,black,no,no,NO
+0,0,0,0,0,0,0,0,1,1,14,f,black,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,middle eastern,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,asian,no,no,NO
+0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,NO
+0,0,0,0,0,0,0,0,1,1,12,f,black,no,no,NO
+0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,12,f,white,no,no,NO
+0,0,0,0,0,0,0,0,1,1,15,m,white,yes,yes,NO
+0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,NO
+0,0,1,0,0,1,1,0,0,0,14,f,white,no,no,NO
+0,0,0,0,0,0,0,0,1,1,14,f,middle eastern,no,no,NO
+0,0,1,1,0,1,1,0,1,0,14,f,middle eastern,no,no,NO
+1,1,0,1,0,0,1,0,0,0,14,f,middle eastern,no,no,NO
+0,0,1,1,0,1,1,0,1,0,14,f,black,no,no,NO
+0,1,1,1,1,1,0,1,1,0,14,f,white,no,no,YES
+1,1,1,1,1,1,1,1,1,0,15,f,middle eastern,no,no,YES
+0,0,0,0,0,0,0,1,1,1,15,f,middle eastern,no,no,NO
+0,0,0,0,0,0,0,0,1,1,15,f,white,no,no,NO
+1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,YES
+1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,YES
+1,1,1,1,1,1,1,0,0,0,15,f,middle eastern,no,no,YES
+1,1,1,1,1,1,1,0,0,0,16,f,middle eastern,no,no,YES
+1,1,1,1,1,1,1,0,0,0,16,f,middle eastern,no,no,YES
+1,0,0,0,0,1,0,0,1,0,13,f,middle eastern,no,no,NO
+1,0,0,0,1,0,0,1,0,1,15,f,middle eastern,no,no,NO
+1,1,0,1,1,0,1,1,0,1,15,f,middle eastern,no,no,YES
+1,1,1,1,1,1,0,0,0,0,12,m,black,yes,yes,NO
+1,0,0,0,1,0,0,1,0,0,16,f,middle eastern,no,no,NO
+0,1,1,0,0,1,0,0,1,0,12,f,black,no,no,NO
+1,0,0,0,0,1,1,1,0,0,16,m,middle eastern,no,no,NO
+1,0,0,0,1,1,0,1,1,0,13,f,middle eastern,yes,no,NO
+1,0,0,0,1,1,0,0,1,1,13,f,white,no,no,NO
+1,0,0,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,0,1,1,1,1,1,1,1,15,f,white,no,yes,YES
+1,0,0,0,1,0,0,1,0,1,12,f,others ,yes,yes,NO
+1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,1,1,1,0,0,1,1,0,13,f,white,no,no,YES
+1,1,1,0,1,1,1,0,1,1,12,m,white,no,no,YES
+0,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,1,1,0,1,1,1,1,1,14,m,white,no,no,YES
+1,1,1,1,1,1,1,1,1,1,15,f,white,no,no,YES
+1,0,1,1,1,1,1,1,1,1,13,m,middle eastern,no,yes,YES
+1,1,1,1,1,1,1,1,1,1,14,m,hispanic,no,no,YES
+1,0,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,0,1,0,0,0,0,0,0,12,m,middle eastern,no,no,NO
+1,0,1,1,1,0,0,0,1,1,14,f,white,no,no,NO
+1,1,0,0,0,0,1,0,1,0,13,m,middle eastern,no,no,NO
+0,1,1,1,1,1,1,1,1,1,16,m,black,no,no,YES
+1,0,1,1,1,1,0,1,1,1,14,f,white,no,no,YES
+1,1,1,1,1,1,0,0,0,1,13,m,white,no,no,YES
+1,0,1,1,1,1,0,1,1,1,16,f,white,no,no,YES
+1,1,1,1,1,1,1,0,1,1,12,m,middle eastern,yes,no,YES
+1,0,1,1,1,1,1,1,1,1,14,f,others ,no,no,YES
+1,1,1,1,0,1,1,1,1,1,16,f,latino,no,yes,YES
+1,0,1,1,1,1,1,1,1,1,15,f,black,no,no,YES
+0,0,1,1,1,1,1,1,1,1,14,f,others ,no,no,YES
+0,0,1,1,1,1,1,1,1,1,12,m,white,no,no,YES
+0,0,1,1,1,1,1,1,1,1,12,m,white,no,no,YES
+1,0,1,0,1,1,1,1,1,1,15,m,white,no,no,YES
+1,1,0,0,1,1,0,0,1,0,13,f,others ,yes,yes,NO
+1,0,0,0,1,1,0,0,0,0,16,m,hispanic,no,no,NO
+0,1,1,1,1,1,1,1,1,1,16,m,hispanic,no,no,YES
+0,1,0,1,1,0,1,0,1,0,16,m,hispanic,no,no,NO
+1,0,1,0,1,0,0,0,1,0,15,m,latino,no,no,NO
+0,0,1,1,1,1,1,1,1,0,15,f,white,no,no,YES
+1,1,1,1,1,1,1,1,1,1,16,m,asian,yes,no,YES
+0,1,0,1,0,0,0,0,0,1,16,m,latino,no,no,NO
+0,0,0,1,0,0,0,0,0,0,15,m,middle eastern,no,no,NO
+0,1,1,1,1,1,1,1,1,1,16,m,asian,yes,no,YES
+1,1,1,1,0,1,0,0,1,0,12,m,asian,no,no,NO
+1,1,1,0,1,1,1,1,1,1,12,f,black,no,no,YES
+1,1,0,1,1,1,0,0,1,1,14,f,south asians,no,no,YES
+0,0,1,1,0,1,0,1,1,1,13,m,asian,no,no,NO
+0,1,1,1,1,1,1,1,1,1,13,m,asian,no,no,YES
+1,0,0,1,1,1,0,1,1,1,16,f,black,no,no,YES
+0,0,1,0,0,1,1,1,1,1,15,f,black,no,yes,NO
+1,0,0,1,1,0,0,1,1,1,15,f,white,no,yes,NO
+0,0,0,1,1,1,0,0,0,1,13,m,middle eastern,no,no,NO
+1,0,0,0,0,0,0,0,0,0,15,f,hispanic,no,no,NO
+0,0,0,1,0,0,1,1,0,0,15,m,latino,no,no,NO
+0,1,0,0,0,0,0,0,0,0,15,m,black,no,no,NO
+1,1,1,1,1,1,1,1,0,0,16,m,white,no,no,YES
+0,0,0,0,0,0,1,0,0,0,16,m,latino,no,no,NO
+1,1,1,1,1,1,1,1,1,1,16,m,latino,no,no,YES
+1,1,1,1,1,1,1,1,1,1,12,f,white,no,yes,YES
+1,1,0,0,0,0,0,1,0,0,16,f,white,no,no,NO
+0,0,1,1,1,1,1,1,1,1,16,f,white,no,no,YES
+1,0,1,1,1,1,0,0,1,1,16,f,white,yes,no,YES
+1,0,1,1,1,0,1,1,1,0,14,f,white,no,yes,YES
+1,0,1,1,1,1,0,1,1,1,15,f,white,no,no,YES
+1,0,1,1,1,1,0,1,1,1,15,f,asian,no,no,YES
+1,1,1,1,0,1,0,0,1,0,12,m,middle eastern,no,no,NO
+0,0,1,0,1,1,1,0,0,0,16,m,white,no,no,NO
+1,1,1,1,1,1,0,0,1,1,13,f,white,no,no,YES
+1,0,0,0,1,1,0,1,1,1,14,m,middle eastern,no,no,NO
+1,1,0,0,1,0,1,1,1,1,14,m,others ,no,no,YES
+1,1,0,0,0,1,0,1,1,1,13,f,white,no,yes,NO
+0,1,0,1,1,1,0,1,1,1,16,f,white,no,no,YES
+1,1,1,1,0,1,0,0,1,1,12,f,black,no,yes,YES
+1,1,1,1,1,1,0,1,1,0,12,m,white,no,no,YES
+1,1,1,1,1,1,1,0,1,0,16,m,asian,no,no,YES
+1,1,1,0,1,0,1,0,1,0,16,m,asian,no,yes,NO
+1,1,1,1,1,1,1,0,1,1,14,f,white,no,no,YES
+1,1,0,0,1,0,1,0,0,0,12,m,asian,yes,no,NO
+1,1,1,1,1,1,1,1,1,0,14,m,white,no,no,YES
+1,0,1,1,0,1,1,1,1,1,16,f,white,yes,no,YES
+0,0,1,1,0,1,0,1,1,1,13,f,black,no,no,NO
+0,1,1,1,0,1,1,0,1,0,12,f,middle eastern,yes,no,NO
+1,0,0,0,1,1,0,1,0,0,16,m,aboriginal,no,no,NO
+1,1,1,0,1,1,1,0,1,1,16,m,asian,no,no,YES
+1,1,0,1,1,1,0,0,1,0,15,m,white,no,no,NO
+1,0,0,1,1,1,0,0,1,1,14,m,white,no,no,NO
+0,0,1,1,1,0,1,1,1,1,16,m,asian,yes,no,YES
+1,1,1,1,1,1,1,0,1,1,16,m,asian,yes,no,YES
+0,1,1,1,0,0,0,1,1,1,16,f,white,yes,no,NO
+1,1,1,1,1,1,0,0,1,1,14,m,white,no,no,YES
+1,0,1,0,0,1,0,0,1,1,13,m,white,no,no,NO
+1,1,0,1,1,1,1,1,1,1,16,m,white,no,no,YES
+1,1,0,1,1,1,1,1,1,1,15,m,white,yes,yes,YES
+1,0,1,0,1,0,1,0,0,0,12,m,asian,no,no,NO
+1,1,1,0,1,1,0,0,1,1,16,m,white,yes,no,YES
+1,0,0,1,1,1,1,1,1,1,12,f,white,no,no,YES
+1,1,0,1,1,0,0,0,1,1,13,f,white,no,no,NO
+1,0,1,0,0,1,1,1,1,0,12,m,asian,no,no,NO
+0,1,1,1,1,1,0,1,0,1,12,m,asian,yes,yes,YES
+0,0,0,1,0,0,0,1,1,0,13,f,white,no,no,NO
+1,1,1,1,1,1,1,1,1,1,14,m,white,yes,no,YES
+1,0,0,0,1,0,0,1,0,1,14,m,white,no,yes,NO
+1,0,1,1,1,1,0,0,1,1,15,f,white,no,no,YES
+1,0,1,1,1,0,1,1,1,1,12,m,hispanic,yes,no,YES
+0,1,1,1,1,1,1,0,1,1,12,m,white,no,no,YES
+1,0,1,1,1,1,0,1,1,1,12,m,middle eastern,no,yes,YES
+1,1,0,1,1,1,1,0,1,0,14,f,white,yes,no,YES
+1,1,1,1,1,1,0,1,1,1,13,m,white,yes,no,YES
+1,0,1,1,1,1,0,1,1,1,16,m,asian,no,no,YES
+1,1,1,1,1,1,1,1,1,1,13,m,white,yes,yes,YES
+1,1,1,1,1,1,0,1,1,1,16,f,white,no,no,YES
+1,1,1,1,1,1,1,1,1,1,12,f,white,no,yes,YES
+0,0,0,1,1,0,1,0,0,1,12,f,white,no,yes,NO
+1,1,1,1,1,1,0,1,1,1,13,m,white,no,no,YES
+1,0,1,1,1,1,1,1,1,1,13,m,white,yes,no,YES
+1,1,1,0,0,1,0,1,1,0,16,m,white,no,no,NO
+0,1,1,1,1,1,1,0,1,0,16,m,white,no,no,YES
+1,1,0,1,1,1,0,0,1,1,16,f,white,no,no,YES
+1,1,1,1,1,1,1,1,1,1,12,f,white,no,no,YES
+1,0,0,0,1,1,0,1,1,1,15,f,white,no,no,NO
+1,0,1,1,1,1,0,1,1,1,12,m,white,no,no,YES
+0,1,1,1,0,1,1,0,1,1,12,m,asian,no,no,YES
+0,1,1,1,1,1,0,0,1,1,15,f,white,no,no,YES
+1,1,1,1,1,1,0,0,1,1,15,m,white,no,no,YES
+1,0,1,1,0,1,1,1,1,1,13,m,white,no,no,YES
+1,1,0,0,0,0,0,0,1,0,15,f,white,no,no,NO
+1,1,0,1,0,0,0,1,0,0,14,f,white,yes,no,NO
+1,0,1,1,1,1,0,1,1,1,13,f,white,no,no,YES
+0,1,1,0,1,1,0,0,1,1,13,f,others ,no,no,NO
+1,0,0,1,1,0,0,1,1,0,15,f,white,no,no,NO
+1,0,0,0,0,0,1,1,0,0,15,f,white,no,no,NO
+1,1,0,0,1,1,1,0,1,1,13,f,white,no,no,YES
+1,1,1,0,1,1,1,1,1,1,12,m,asian,yes,no,YES
+1,0,0,1,1,1,0,0,1,1,15,f,white,no,yes,NO
+0,0,1,1,1,0,1,1,0,1,13,f,white,no,no,NO
+1,1,0,0,1,1,0,0,1,1,15,m,asian,no,yes,NO
+1,0,1,1,1,1,0,0,1,0,12,m,asian,no,no,NO
+1,1,1,1,1,1,0,1,1,1,15,f,white,no,yes,YES
+1,0,0,1,0,0,1,1,0,1,12,m,white,yes,no,NO
+1,1,1,1,0,1,1,0,1,1,14,f,white,no,no,YES
+1,1,1,1,1,0,1,0,0,0,12,f,south asians,no,no,NO
+0,0,1,1,1,1,0,1,1,1,13,f,white,no,no,YES
+1,1,0,1,1,1,0,0,1,1,16,f,white,no,no,YES
+1,0,1,1,1,1,1,0,1,1,15,m,asian,no,no,YES
+0,0,0,0,1,0,0,1,0,1,13,m,white,no,no,NO
+1,0,1,1,1,1,0,0,1,1,14,f,white,no,yes,YES
+1,0,1,0,1,1,1,1,1,1,13,m,white,no,no,YES
+1,0,1,0,1,1,1,0,1,1,15,f,others ,no,yes,YES
+1,0,0,0,0,1,1,1,1,1,12,m,others ,no,yes,NO
+1,1,1,1,0,1,1,1,1,1,12,m,hispanic,no,yes,YES
+1,1,0,1,0,0,1,0,1,0,13,m,hispanic,no,yes,NO
+1,1,0,0,0,0,0,0,1,0,15,m,white,no,yes,NO
+1,1,1,1,1,1,0,1,1,1,15,m,white,no,no,YES
+0,0,0,0,0,0,0,0,0,0,15,m,white,no,no,NO
+1,1,1,1,1,1,0,1,1,1,15,m,white,no,no,YES
+1,1,1,1,0,1,1,0,1,1,12,f,white,yes,no,YES
+1,0,1,1,1,1,1,1,1,1,15,f,white,no,no,YES
+0,0,1,1,1,1,1,1,1,1,13,f,white,no,no,YES
+1,0,1,0,1,1,0,0,1,1,13,f,white,yes,yes,NO
+1,1,1,1,1,1,1,1,1,1,12,m,white,no,yes,YES
+1,0,1,1,1,1,0,1,1,1,14,f,white,no,yes,YES
+1,1,1,1,1,1,0,1,1,1,12,f,others ,no,no,YES
+1,1,0,1,1,0,0,1,1,1,16,f,white,no,no,YES
+0,0,1,1,1,0,1,0,0,1,12,m,others ,no,no,NO
+1,0,1,0,1,0,0,1,0,1,15,m,black,no,no,NO
+1,0,1,0,1,0,0,1,0,0,15,m,black,no,no,NO
+0,0,1,1,0,0,0,0,1,0,15,f,white,no,yes,NO
+1,1,0,0,0,0,0,0,0,0,13,f,white,no,no,NO
+1,0,1,1,1,1,0,0,1,1,16,m,white,no,no,YES
+1,0,1,1,1,1,1,1,1,1,15,m,white,no,no,YES
+1,0,0,0,1,0,0,1,0,1,12,m,hispanic,no,no,NO
+1,1,1,0,0,1,1,1,1,0,16,m,white,no,no,YES
+1,1,1,1,0,1,1,0,1,0,16,m,white,no,no,YES
+0,1,0,0,0,0,0,0,0,0,16,m,white,no,no,NO
+1,0,0,1,0,0,1,0,0,0,16,m,white,no,no,NO
+0,1,1,1,1,1,0,1,1,1,14,m,white,no,yes,YES
+0,0,0,0,0,1,0,1,1,1,14,f,white,no,yes,NO
+1,1,0,0,1,1,1,0,1,1,14,f,white,no,no,YES
+1,1,1,0,1,1,1,1,1,0,15,m,white,no,no,YES
+1,1,1,1,1,1,0,1,1,1,15,f,white,no,no,YES
+0,0,1,0,0,0,0,0,0,0,16,f,white,no,no,NO
+1,0,1,1,1,1,0,1,1,1,16,f,white,no,yes,YES
+1,1,1,0,0,0,0,0,0,0,15,m,middle eastern,no,no,NO
+1,1,1,1,1,0,1,1,1,1,16,f,white,yes,yes,YES
+1,0,0,1,1,1,1,0,1,1,12,m,white,no,no,YES
+1,1,0,0,1,0,0,1,1,1,14,m,white,no,no,NO
+0,1,0,1,1,1,0,0,1,1,14,m,white,no,no,NO
+1,0,0,0,1,0,0,1,0,1,14,m,white,no,no,NO
+0,0,0,1,1,0,0,1,0,0,15,f,middle eastern,no,no,NO
+1,1,1,1,1,0,1,0,0,1,12,m,white,yes,yes,YES
+0,0,0,1,0,0,1,1,0,0,15,m,middle eastern,no,no,NO
+1,0,0,0,0,0,0,0,0,1,16,f,middle eastern,no,no,NO
+1,1,1,0,1,1,0,1,1,1,16,f,south asians,no,no,YES
+1,0,1,1,1,1,1,1,1,1,13,m,white,no,no,YES
+0,0,1,1,0,1,1,1,1,1,12,f,middle eastern,no,no,YES
+1,0,0,0,1,0,0,1,0,0,13,m,white,no,no,NO
